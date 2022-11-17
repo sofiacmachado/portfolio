@@ -121,7 +121,7 @@
               <div class="col-md-6 form-group">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" required/>
                 <input type="hidden" name="_autoresponse" value="Thank you! I'll try to respond as soon as possible!">
-                <input type="hidden" name="_next" value="./thank_you.html">
+                <input type="hidden" name="_next" value="https://sofiacmachado.github.io/portfolio/thank_you.html">
               </div>
             </div>
             <div class="form-group">
