@@ -26,6 +26,7 @@
                           <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterPhotography' href="../index.html#portfolio">Photography</a>
                           <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterVideography' href="../index.html#portfolio">Video Editing</a>
                           <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterWeb' href="../index.html#portfolio">Web Development</a>
+                          <a class="dropdownMenu dropdown-item" href="#">Bookselling</a>
                       </div>
                       </li>
                       <li class='nav-item'>
@@ -43,21 +44,21 @@
                   <div class ='form-group mb-4'>
                       <ul class='navbar-nav pt-4'>
                           <li class='nav-item'>
-                              <a class='nav-link scrollto' href='#about'>About</a>
+                              <a class='nav-link scrollto' href='../index.html#about'>About</a>
                           </li>
                           <li class='nav-item'>
-                              <a class='nav-link scrollto' href='#resume'>Resume</a>
+                              <a class='nav-link scrollto' href='../index.html#resume'>Resume</a>
                           </li>
                           <li class='nav-item'>
-                              <a class='nav-link scrollto' href='#portfolio'>Portfolio</a>
+                              <a class='nav-link scrollto' href='../index.html#portfolio'>Portfolio</a>
                           </li>
                           <label for="exampleFormControlSelect1"></label>
-                          <select class="form-control mb-2" id="langDropdown">
-                              <option>Photography</option>
-                              <option>Video Editing</option>
-                              <option>Web Development</option>
-                              <option>Bookselling</option>
-                          </select>
+                          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                              <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterPhotography' href="../index.html#portfolio">Photography</a>
+                              <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterVideography' href="../index.html#portfolio">Video Editing</a>
+                              <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterWeb' href="../index.html#portfolio">Web Development</a>
+                              <a class="dropdownMenu dropdown-item" href="#">Bookselling</a>
+                          </div>
                           <li class='nav-item'>
                               <a class='nav-link scrollto' href='#contact'>Contact</a>
                           </li>
