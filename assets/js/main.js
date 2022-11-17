@@ -10,22 +10,22 @@
               <div id='navbarMenu' class='navbarMenu navbar-collapse collapse justify-content-end'>
                   <ul class='navbar-nav'>
                       <li class='nav-item'>
-                      <a class='nav-link scrollto' href='../index.html#about'>About</a>
+                      <a class='nav-link scrollto' href='https://sofiacmachado.github.io/portfolio/index.html#about'>About</a>
                       </li>
                       <li class='nav-item'>
-                      <a class='nav-link scrollto' href='../index.html#resume'>Resume</a>
+                      <a class='nav-link scrollto' href='https://sofiacmachado.github.io/portfolio/index.html#resume'>Resume</a>
                       </li>
                       <li class='nav-item'>
-                      <a class='nav-link scrollto' href='../index.html#portfolio'>Portfolio</a>
+                      <a class='nav-link scrollto' href='https://sofiacmachado.github.io/portfolio/index.html#portfolio'>Portfolio</a>
                       </li>
                       <li class='nav-item dropdown'>
                       <a id='navbarDropdown' class='nav-link dropdown' href='#' role='button' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
                           <span>Services</span><i class='ml-2 fas fa-chevron-down'></i>
                       </a>
                       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                          <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterPhotography' href="../index.html#portfolio">Photography</a>
-                          <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterVideography' href="../index.html#portfolio">Video Editing</a>
-                          <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterWeb' href="../index.html#portfolio">Web Development</a>
+                          <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterPhotography' href="https://sofiacmachado.github.io/portfolio/index.html#portfolio">Photography</a>
+                          <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterVideography' href="https://sofiacmachado.github.io/portfolio/index.html#portfolio">Video Editing</a>
+                          <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterWeb' href="https://sofiacmachado.github.io/portfolio/index.html#portfolio">Web Development</a>
                           <a class="dropdownMenu dropdown-item" href="#">Bookselling</a>
                       </div>
                       </li>
@@ -44,19 +44,19 @@
                   <div class ='form-group mb-4'>
                       <ul class='navbar-nav pt-4'>
                           <li class='nav-item'>
-                              <a class='nav-link scrollto' href='../index.html#about'>About</a>
+                              <a class='nav-link scrollto' href='https://sofiacmachado.github.io/portfolio/index.html#about'>About</a>
                           </li>
                           <li class='nav-item'>
-                              <a class='nav-link scrollto' href='../index.html#resume'>Resume</a>
+                              <a class='nav-link scrollto' href='https://sofiacmachado.github.io/portfolio/index.html#resume'>Resume</a>
                           </li>
                           <li class='nav-item'>
-                              <a class='nav-link scrollto' href='../index.html#portfolio'>Portfolio</a>
+                              <a class='nav-link scrollto' href='https://sofiacmachado.github.io/portfolio/index.html#portfolio'>Portfolio</a>
                           </li>
                           <label for="exampleFormControlSelect1"></label>
                           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                              <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterPhotography' href="../index.html#portfolio">Photography</a>
-                              <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterVideography' href="../index.html#portfolio">Video Editing</a>
-                              <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterWeb' href="../index.html#portfolio">Web Development</a>
+                              <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterPhotography' href="https://sofiacmachado.github.io/portfolio/index.html#portfolio">Photography</a>
+                              <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterVideography' href="https://sofiacmachado.github.io/portfolio/index.html#portfolio">Video Editing</a>
+                              <a class="dropdownMenu dropdown-item btn-portfolio" type="button" data-filter='filterWeb' href="https://sofiacmachado.github.io/portfolio/index.html#portfolio">Web Development</a>
                               <a class="dropdownMenu dropdown-item" href="#">Bookselling</a>
                           </div>
                           <li class='nav-item'>
