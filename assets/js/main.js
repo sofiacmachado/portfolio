@@ -4,7 +4,7 @@
   $("#topPage").append(
       `<nav id='navbar' class='mainPage navbar navbar-trans navbar-expand-md fixed-top header-transparent'>
           <div class='container'>
-              <a class='portfolioName navbar-brand active' scrollto href='../index.html' id='portfolioName'>Sofia Carneiro Machado</a>
+              <a class='portfolioName navbar-brand active' scrollto href='https://sofiacmachado.github.io/portfolio/index.html' id='portfolioName'>Sofia Carneiro Machado</a>
               <button class='navbar-toggler collapsed' type='button' data-toggle='collapse' data-target='#navbarMenu' aria-controls='navbarMenu' aria-expanded='false' aria-label='Toggle navigation'>
               </button>
               <div id='navbarMenu' class='navbarMenu navbar-collapse collapse justify-content-end'>
@@ -121,7 +121,7 @@
               <div class="col-md-6 form-group">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" required/>
                 <input type="hidden" name="_autoresponse" value="Thank you! I'll try to respond as soon as possible!">
-                <input type="hidden" name="_next" value="https://sofiacmachado.github.io/portfolio/thank_you.html">
+                <input type="hidden" name="_next" value="https://sofiacmachado.github.io/portfolio/form_page/thank_you.html">
               </div>
             </div>
             <div class="form-group">
