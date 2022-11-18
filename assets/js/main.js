@@ -82,29 +82,23 @@
 
           <div class='col-md-12'>
             <div class='info-box'>
-              <i class='fas fa-share-alt'></i>
+              <i class='fas fa-share-alt fa-2x'></i>
               <h3>Social Profiles</h3>
               <div class='social-links'>
-                <a href='https://www.instagram.com/sofiacarneiromachado/' class='instagram'><i class='fab fa-instagram'></i></a>
-                <a href='https://github.com/sofiacmachado' target='_blank' class='github'><i class='fab fa-github'></i></a>
-                <a href='#https://www.linkedin.com/in/sofiacarneiromachado/' target='_blank' class='linkedin'><i class='fab fa-linkedin-in'></i></a>
+                <a href='https://www.instagram.com/sofiacarneiromachado/' target='_blank' class='instagram'><i class='fab fa-instagram'></i></a>
+                <a href='https://github.com/sofiacmachado' target='_blank' target='_blank' class='github'><i class='fab fa-github'></i></a>
+                <a href='https://www.linkedin.com/in/sofiacarneiromachado/' target='_blank' class='linkedin'><i class='fab fa-linkedin-in'></i></a>
+                <a href='https://www.youtube.com/sofiamachadochannel/' target='_blank' class='linkedin'><i class='fab fa-youtube'></i></a>
               </div>
             </div>
           </div>
         
-          <div class='col-md-6'>
+          <div class='col-md-12'>
             <div class='info-box mt-4'>
-              <i class='far fa-envelope-open'></i>
-              <h3>Email Me</h3>
-              <p>machado.sofia@gmail.com</p>
-            </div>
-          </div>
-
-          <div class='col-md-6'>
-            <div class='info-box mt-4'>
-              <i class='fas fa-phone-alt'></i>
-              <h3>Call Me</h3>
-              <p>+351 912 389 759</p>
+            <a href="./assets/cv_en.png" download>
+              <i class="fa-regular fa-newspaper fa-2x"></i>
+              <h3>Download my CV</h3>
+             </a>
             </div>
           </div>
         </div>
