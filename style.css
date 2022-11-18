@@ -652,6 +652,7 @@ footer .copyright {
 
 .portfolio-img-fluid {
   border-radius: 5px;
+  width: 825px;
   box-shadow: 2px 2px 8px 5px #44444452;
 }
 
