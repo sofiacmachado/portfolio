@@ -645,6 +645,24 @@ footer .copyright {
 
 /* === Portfolio Page === */
 
+@media (min-width: 576px) {
+  #iframe-bub {
+    height: 240px;
+  }
+}
+@media (min-width: 768px) {
+  #iframe-bub {
+    height: 320px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #iframe-bub {
+    height: 392px;
+  }
+}
+
+
 .portfolio-page-img {
   max-width: 100%;
   height: auto;
