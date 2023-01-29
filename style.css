@@ -80,6 +80,11 @@ p li {
   vertical-align: middle;
 }
 
+.title-s-theme {
+  font-size: 0.9em;
+  font-weight: 500;
+}
+
 .title-s {
   font-size: 0.9rem;
   color: var(--bronze-color);
